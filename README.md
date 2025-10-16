@@ -1,3 +1,10 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>个人简历</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 <style>
     h1 {
         text-align: center;
@@ -77,7 +84,7 @@
         <caption style="font-size: 20px;font-weight: bold;">技能证书</caption>
         <tr>
             <td>
-                <ol type="I">
+                <ol type="1">
                     <li>
                         <center>英语六级证书</center>
                     </li>
@@ -87,7 +94,7 @@
                     <li>
                         <center>软件设计师证书</center>
                     </li>
-                </ol>  
+                </ol>
             </td>
         </tr>
      </table>
@@ -95,10 +102,10 @@
         <caption style="font-size: 20px;font-weight: bold;">个人特长与爱好</caption>
          <tr>
             <td>
-                <ol type="I">
-                    <li><i class="fas fa-laptop-code"></i><center>编程</center></li>
-                    <li><i class="fas fa-users"></i><center>打篮球</center></li>
-                    <li><i class="fas fa-globe"></i><center>听音乐</center></li>
+                <ol type="1">
+                    <li><center>编程</center></li>
+                    <li><center>打篮球</center></li>
+                    <li><center>听音乐</center></li>
                 </ol>
             </td>
          </tr>
